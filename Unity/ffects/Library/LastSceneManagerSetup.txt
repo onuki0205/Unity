@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Chapter7/ItemGetShineEffect.unity
+  isLoaded: 1
+  isActive: 1
